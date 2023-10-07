@@ -10,13 +10,13 @@ Sinal de acionamento: ! (Coloque este sinal antes dos comandos)
 
 ### Comandos:
 	
-* tapotente
+* tapotente &nbsp;
     Envia uma foto de uma gato com a legenda “Ta potente”.
 &nbsp;
-* myname
+* myname &nbsp;
     Envia uma mensagem dizendo qual o nome do usuário que enviou o comando de acionamento.
 &nbsp;
-* random 0 10 (Ou qualquer outros números)
+* random 0 10 (Ou qualquer outros números) &nbsp;
     Envia um número aleatório de acordo com os que estiverem na frente do comando.
 &nbsp;
 
@@ -26,16 +26,16 @@ Sinal de acionamento: ! (Coloque este sinal antes dos comandos)
 
 Não coloque o “+” 
 
-* join + (ID do canal de voz)
+* join + (ID do canal de voz) &nbsp;
     Conecta o Bot a sala de voz desejada.
 &nbsp;
-* leave
+* leave &nbsp;
     Desconecta o Bot da sala.
 &nbsp;
-* play + (Algum link de qualquer plataforma suportada pelo LavaLink)
+* play + (Algum link de qualquer plataforma suportada pelo LavaLink) &nbsp;
     Toca o áudio do link.
 &nbsp;
-* pause
+* pause &nbsp;
     Pausa o áudio que está tocando.
 &nbsp;
 
